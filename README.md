@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there~
+I'm MakerTechno, a student from senior high, a 'maker'.
+I'm here since 2022.3, when I was 13.
 
-<!--
-**MakerTechno/MakerTechno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a maker, constantly exploring and creating new things.
+My passion for innovation drives me to experiment with various technologies and tools, turning ideas into reality.
+Whether it's building electronic circuits, developing software, or crafting unique projects, I thrive on the process of making and learning.
 
-Here are some ideas to get you started:
+I have a passion for learning about computer science and aspire to become a tech guru.
+Driven by my love for Minecraft, I've dabbled in creating Forge mods.
+I have a keen interest in stunning and beautiful animations, and this passion can be glimpsed through my personal blog, which features some "simple" animations.
+Additionally, I'm an enthusiast of electronic circuits and astronomy.
+I cherish my simple yet fulfilling life and enjoy setting goals for myself and continuously striving to achieve them.
+Yes, this is me, MakerTechno.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(My life has been hijacked by maze-themed anime. I'm totally hooked on these shows Lol)
+
+Wishing happiness and joy to everyone who reads this personal description.

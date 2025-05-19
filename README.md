@@ -1,3 +1,5 @@
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MakerTechno)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakerTechno)
 # Hi there~
 I'm **MakerTechno**, a student from senior high, a '**maker**'.
 

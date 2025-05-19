@@ -1,5 +1,5 @@
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MakerTechno)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakerTechno)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MakerTechno)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakerTechno&layout=compact)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 # Hi there~
 I'm **MakerTechno**, a student from senior high, a '**maker**'.
 
